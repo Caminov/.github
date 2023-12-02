@@ -2,7 +2,7 @@
 
 Caminov is an AI startup dedicated to building transformative computer vision tools. Our mission is to leverage innovations in deep learning to solve real-world problems.
 
-Our first product, [FRINGUANT](https://caminov.com/fringuant), provides personalized fashion recommendations via camera-based scanning. It allows us to give users spot-on size and style suggestions tailored to their body shape and preferences. Beyond apparel, we aim to expand this technology across sectors. 
+Our first product, [FRINGUANT](https://fringuant.com/), provides personalized fashion recommendations via camera-based scanning. It allows us to give users spot-on size and style suggestions tailored to their body shape and preferences. Beyond apparel, we aim to expand this technology across sectors. 
 
 **Our focus**:
 
