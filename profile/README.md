@@ -26,7 +26,8 @@ Founded in 2022 by Jacques Allibert, Lancelot Convert, Zoe Tournant, and Clement
 ## History
 
 - 2022 - Founded, received seed round  
-- 2023 - Launched FRINGUANT beta
+- 2023 - Launched FRINGUANT v1.0.0
+- 2023 - First ML Paper [Can we Agree? On the Rashōmon Effect and the Reliability of Post-Hoc Explainable AI](https://arxiv.org/abs/2308.07247)
 - 2024 - ??? 🤫 
 
 Over the next year we aim to:
